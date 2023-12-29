@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex-main{
+    flex: 1 0 auto;
+}
+.flex-footer{
+    flex: 0 0 auto;
+}
